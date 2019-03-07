@@ -1,11 +1,11 @@
 {
-  "main.js": "/react-swipe/static/js/main.c55cca97.chunk.js",
-  "main.js.map": "/react-swipe/static/js/main.c55cca97.chunk.js.map",
-  "runtime~main.js": "/react-swipe/static/js/runtime~main.5fc0ca4e.js",
-  "runtime~main.js.map": "/react-swipe/static/js/runtime~main.5fc0ca4e.js.map",
-  "static/js/2.c2dcd9fd.chunk.js": "/react-swipe/static/js/2.c2dcd9fd.chunk.js",
-  "static/js/2.c2dcd9fd.chunk.js.map": "/react-swipe/static/js/2.c2dcd9fd.chunk.js.map",
-  "index.html": "/react-swipe/index.html",
-  "precache-manifest.2a419dcf934274ed6603021410e3cf50.js": "/react-swipe/precache-manifest.2a419dcf934274ed6603021410e3cf50.js",
-  "service-worker.js": "/react-swipe/service-worker.js"
+  "main.js": "/react-swipe/public/index.html/static/js/main.c55cca97.chunk.js",
+  "main.js.map": "/react-swipe/public/index.html/static/js/main.c55cca97.chunk.js.map",
+  "runtime~main.js": "/react-swipe/public/index.html/static/js/runtime~main.4ae01ee7.js",
+  "runtime~main.js.map": "/react-swipe/public/index.html/static/js/runtime~main.4ae01ee7.js.map",
+  "static/js/2.c2dcd9fd.chunk.js": "/react-swipe/public/index.html/static/js/2.c2dcd9fd.chunk.js",
+  "static/js/2.c2dcd9fd.chunk.js.map": "/react-swipe/public/index.html/static/js/2.c2dcd9fd.chunk.js.map",
+  "index.html": "/react-swipe/public/index.html/index.html",
+  "precache-manifest.b1b0ea19e8ce6cf82d75f26cd47ce24e.js": "/react-swipe/public/index.html/precache-manifest.b1b0ea19e8ce6cf82d75f26cd47ce24e.js",
+  "service-worker.js": "/react-swipe/public/index.html/service-worker.js"
 }
